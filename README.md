@@ -2,7 +2,7 @@
 
 React ecommerce website with dark/light mode toggle and mobile first approach.
 
-With the use of Sass for a smooth Interface experience.
+With the use of Sass.css for a smooth Interface experience and special hover effects.
 
 
 ## Experience the website here
